@@ -16,5 +16,3 @@ def task():
 
 if __name__ == '__main__':
     app.run(debug=False, host="localhost", port=5005)
-    
-    # API call hello world (recieve)
